@@ -43,9 +43,4 @@
 <a href="https://github.com/marcoGoldChains/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marcoGoldChains&layout=donut&theme=tokyonight&langs_count=8&card_width=320" />
 </a>
-***
-<br clear="both">
-<img src="https://raw.githubusercontent.com/marcoGoldChains/marcoGoldChains/output/snake.svg" alt="Snake animation" />
-
-***
 
