@@ -66,5 +66,5 @@ Skills
   📖&nbsp;Technologies Currently Learning 📖 &nbsp;
 </h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=astro,angular,react,nodejs,django,rust&perline=3">
+  <img src="https://skillicons.dev/icons?i=astro,angular,react,nodejs,django,nextjs&perline=3">
 
